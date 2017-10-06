@@ -3,3 +3,4 @@ edit1->mastar;edit-bug
 feature1-add
 edit->feature
 local->edit
+remote->edit
