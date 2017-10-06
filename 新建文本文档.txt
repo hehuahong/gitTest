@@ -1,2 +1,3 @@
 start
-edit1->mastar
+edit1->mastar;edit-bug
+feature1-add
