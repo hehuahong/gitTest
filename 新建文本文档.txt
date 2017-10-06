@@ -4,3 +4,4 @@ feature1-add
 edit->feature
 local->edit
 remote->edit
+test->git config --global mergetool.keepBackup false->local-edit
