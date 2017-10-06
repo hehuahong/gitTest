@@ -2,3 +2,4 @@ start
 edit1->mastar;edit-bug
 feature1-add
 edit->feature
+remote->edit
