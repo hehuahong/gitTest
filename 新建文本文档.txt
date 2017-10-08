@@ -6,3 +6,4 @@ local->edit
 remote->edit
 test->git config --global mergetool.keepBackup false->local-edit
 test->git config --global mergetool.keepBackup false->remote-edit
+test->checkOut（检出）
