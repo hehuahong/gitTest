@@ -1,3 +1,4 @@
 start
 edit->feature
 edit->debug
+edit->remote
